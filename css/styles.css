@@ -1,0 +1,218 @@
+body{
+  background-color: #171515;
+  margin: 0;
+  color: white;
+
+}
+h1{
+  color: white;
+  font-family: 'Fugaz One', cursive;
+  font-size: 50px;
+  margin: 0;
+}
+h4{
+  margin: 0;
+  font-family: 'Rubik', sans-serif;
+  font-size: 25px
+}
+h3{
+  margin: 0;
+  font-family: 'Rubik', sans-serif;
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 15%;
+}
+h2{
+  text-align: center;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #e9ac4f;
+  font-family: 'Fugaz One', cursive;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: #e9ac4f;
+
+}
+p{
+  font-family: 'Rubik', sans-serif;
+}
+
+/* header box */
+.header-box{
+  height: 600px;
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.space{
+  position: absolute;
+  width: 100%;
+  margin: 0;
+  z-index: -1;
+  top: -160px;
+}
+.infi{
+  width: 30%;
+  position: absolute;
+  top: 150px;
+  right: 450px;
+}
+.pp-des{
+  position: absolute;
+  color: white;
+  text-align: center;
+  top: 90px;
+  right: 440px;
+}
+/* profile box */
+.profile-box{
+  position: relative;
+  margin: 0;
+  text-align: center;
+  padding-top: 20px;
+}
+.profile-pic{
+  width: 10%;
+  border-radius: 50%;
+}
+.pp-description{
+  width: 50%;
+  margin: auto;
+}
+/* my skills */
+/* illustration */
+.Illustrator{
+  position: relative;
+  width: 100%;
+  height: 200px;
+}
+.ill-h{
+  color: #ff7a67;
+}
+.ill-img{
+  width: 20%;
+  position: absolute;
+  top: 25px;
+  left: 200px;
+}
+.Illustrator-description{
+  display: inline-block;
+  position: absolute;
+  top: 35px;
+  left: 470px;
+}
+.il-des{
+  width: 50%;
+}
+/* animation */
+.animation{
+  position: relative;
+  width: 100%;
+  height: 200px;
+  top: 10px;
+}
+.ani-h{
+  color: #54ba95;
+}
+.ani-img{
+  position: absolute;
+  margin: 0;
+  width: 15%;
+  border-radius: 50%;
+  top: 10px;
+  right: 250px;
+}
+.animation-description{
+  position: absolute;
+  top: 50px;
+  right: 370px;
+  margin: auto;
+}
+.ani-des{
+  width: 80%;
+}
+/* trading */
+.trader{
+  position: relative;
+  width: 100%;
+  height: 200px;
+}
+.trade-img{
+  position: absolute;
+  width: 20%;
+  margin: 0;
+  top: 20px;
+  left: 200px;
+}
+.trade-h{
+  color: #f47458;
+}
+.trader-description{
+  position: absolute;
+  display: inline-block;
+  top: 45px;
+  left: 450px;
+}
+.tra-des{
+  width: 50%;
+}
+/* try */
+.conclusion{
+  position: relative;
+  width: 100%;
+  height: 200px;
+}
+.try-h{
+  color: #b3b0fa;
+}
+.try-img{
+  position: absolute;
+  width: 12%;
+  margin: 0;
+  border-radius: 50%;
+  top: 30px;
+  right: 250px;
+}
+.cc-des{
+  position: absolute;
+  display: inline-block;
+  top: 45px;
+  left: 400px;
+}
+.fp{
+  width: 50%;
+}
+/* Contact Me */
+.contact{
+  position: relative;
+  width: 100%;
+  background-color: #1f242b;
+}
+.cm{
+  text-align: center;
+  padding: 5px;
+  margin-right: 30px;
+  font-family: 'Fugaz One', cursive;
+}
+.insta{
+  display: inline-block;
+  padding: 5px 20px;
+}
+.behance{
+  display: inline-block;
+  padding: 5px 20px;
+}
+.mail{
+  display: inline-block;
+  padding: 5px 20px;
+}
